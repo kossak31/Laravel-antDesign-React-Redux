@@ -1,6 +1,14 @@
 {
     "/js/app.js": "/js/app.js",
     "/js/manifest.js": "/js/manifest.js",
-    "/css/app.css": "/css/app.css",
+    "/js/LoginPage.js": "/js/LoginPage.js",
+    "/js/NotFoundPage.js": "/js/NotFoundPage.js",
+    "/js/DashboardPage.js": "/js/DashboardPage.js",
+    "/js/AdminPage.js": "/js/AdminPage.js",
+    "/js/CustomerPage.js": "/js/CustomerPage.js",
+    "/js/SelectCustomerPage.js": "/js/SelectCustomerPage.js",
+    "/js/LeadPage.js": "/js/LeadPage.js",
+    "/js/ProductPage.js": "/js/ProductPage.js",
+    "/js/LogoutPage.js": "/js/LogoutPage.js",
     "/js/vendor.js": "/js/vendor.js"
 }

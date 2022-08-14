@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div id="hello-react"></div>
+    <div id="root"></div>
 </body>
 
 <script src="{{ asset('js/manifest.js') }}"></script>
